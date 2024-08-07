@@ -1,4 +1,5 @@
 print("meu nome é Bhernardo Ramos Vieira")
 print("tenho 21 anos")
 print("peso 80kg")
-print("estou na 4 fase de Analise e Desenvolvimento de Sistemas")
+print("a primeira vez que fiz isso estava na primeira fase")
+print("Atualemnte estou na 4 fase de Analise e Desenvolvimento de Sistemas")
